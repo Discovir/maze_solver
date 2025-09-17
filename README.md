@@ -26,10 +26,10 @@ Both codes implement **closed-loop control** to improve accuracy and reliability
 
 ## Hardware Requirements
 
-- Arduino-compatible microcontroller (ESP32 recommended in code).
+- Arduino-compatible microcontroller (ESP32 in code).
 - L298N Motor Driver.
 - MPU6050 IMU sensor.
-- Two DC motors with encoders (optional but not required).
+- Two n20 motors with encoders.
 - Power supply (battery pack or regulated DC).
 
 ---
